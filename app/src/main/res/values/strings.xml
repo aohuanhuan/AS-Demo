@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">敖环环</string>
+    <string name="honor">你听远处的声声汽笛，勾勒出梦境中的岛屿，在清晨慢上岸的海浪，是世界尽头的回响，你看那云上草长莺飞，绽放着明天红色的花蕊，成长于苍茫茫的异乡，回首依然望见故乡月亮，黑夜给了我黑色眼睛，我却用它去寻找光明，汗水凝结成时光胶囊，独自在这命运里拓荒，单枪匹马与世界对饮，历经磨难亦不忘初心，做自己荣耀的骑士，勇敢追逐梦想的红日。</string>
+    <string name="hintAuto">这是一个单选的自动提示输入框</string>
+    <string name="hintMAuto">这是一个多选的自动提示输入框</string>
+    <string name="basketball">篮球</string>
+    <string name="football">足球</string>
+    <string name="volleyball">排球</string>
+    <string name="badminton">羽毛球</string>
+    <string name="pingpong">乒乓球</string>
+    <string name="interesting">您的兴趣是: </string>
+    <string name="on">开灯</string>
+    <string name="off">关灯</string>
+    <string name="DigitalView">DigitalView</string>
+    <string name="DigitalFoundary">DigitalFoundary</string>
+    <string name="CIE">CIE</string>
+    <string name="departmentInit">您的部门是:DigitalView</string>
+    <string name="department">您的部门是:</string>
+    <string name="progress">0%</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="sub">－</string>
+    <string name="computeResult">计算结果</string>
+    <string name="goToCalcPage">跳转到计算器页面</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_devide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_back">DEL</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="add">＋</string>
+    <string name="btn_equal">＝</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_devide100">%</string>
+    <string name="btn_0">0</string>
+    <string name="btn_point">.</string>
+    <string name="errorInfo">错误</string>
+    <string name="goToListViewPage">跳转到ListView页面</string>
+    <string name="textTemp">这是一个文字模板</string>
+    <string name="goToGridViewPage">跳转到GridView页面</string>
+    <string name="spinnerText">你选择的行是:</string>
+    <string name="goToProgressDialog">打开ProgressDialog</string>
+    <string name="goToWebViewPage">跳转到WebView页面</string>
+    <string name="goToFragment">跳转到Fragment页面</string>
+    <string name="staticLoad">静态加载</string>
+    <string name="dynamicLoad">动态加载</string>
+    <string name="find">发现</string>
+    <string name="me">我</string>
+    <string name="goToViewPager">跳转到ViewPager页面</string>
+    <string name="content">
+        （1）这年冬天，妞妞的母亲患了病，也许普通的病她依旧能挺下来，可这一次不行，她病得很严重，妞妞娘日渐憔悴，渐渐的，她甚至不能挣扎着去乞讨了。
+    有一天，瘦骨伶仃的妞妞娘躺在破庙里，阳光照在她的身上，阳光依旧灿烂，脸色依旧灰白。
+    妞妞趴在母亲身上无助地哭着，阿丑在另一边，泪花在他眼里打转，但他强忍着，不让眼泪掉下来。自从在环山村哭了整整一个下午，哭得眼肿嗓哑之后，他就再也没有哭过，似乎他的眼泪从那时起就已经哭干了。
+    妞妞娘一手握着妞妞瘦削的小手，一手拉着阿丑，眼神是那么悲伤，那种无奈、凄凉、惦念、眷恋和痛苦揉和在一起的目光，看得人心碎。\n
+        （2）“阿丑，妞妞……就拜托给你了……”\n
+    妞妞娘知道阿丑还小，知道这个倔强的孩子一直不肯去乞讨，他连自己都养不活，可是她没有别人可以托付，庙里的乞丐们都躲得远远的，用冷漠的眼神看着垂死的她，她从那些麻木的目光中看不到一丝同情。
+        （3）“妞妞啊……”\n
+    妞妞娘喟然一声长叹，瘦弱的手无力地放在妞妞的头顶，轻轻摩挲了几下，便溘然长逝，她的眼睛没有闭上，一滴眼泪顺着眼角，轻轻地滑到了她的腮边。
+        （4）“阿母！阿母……”\n
+    妞妞抱住母亲的身体，放声大哭。
+    阿丑的眼睛红了，他红着眼，咬着牙，忍着泪，轻轻将妞妞娘的眼睛抚上，起身走出去。
+    妞妞伏在母亲身体上，一直哭，当她哭到已没有力气再哭出声的时候，阿丑回来了。
+    阿丑就像一只在泥地里打过滚的小狗，浑身脏兮兮的，他有气无力地走回破庙，一屁股坐在妞妞身边，喘息了许久，才拉起那半余破竹席子，把妞妞娘推上草席，抓紧草席向破庙外拽。
+    小河边的草地上，被阿丑用棍子掘、用手刨，硬生生地挖出了一个坑。
+    人死了，要入土为安。
+        （5）他的亲人，他的爹娘，他的阿姊都在熊熊大火中变成了一堆灰烬，那时候，他也像妞妞一样，只有惊恐、无措地哭泣，神志稍稍清醒后便逃离了山村。现在他至少有力量让妞妞娘入土为安，而不是变成阴沟里的一具弃尸。
+    阿丑用他磨破了渗着血的双手把妞妞娘埋进土坑，坟前插了一块小小的木板充作墓碑，便再也没有力气动弹了。
+    从那时起，阿丑和妞妞相依为命，情同兄妹。
+    她不再叫他阿丑，而是叫他阿兄，他依然叫她妞妞。
+    阿丑依然坚持去偷，依然常常挨打，所以两个人常常挨饿。
+    妞妞从小由母亲照顾着，她不大懂得乞讨，常能讨到东西的地盘又被其他乞丐占据了，她讨不到多少吃的，有一次，她被一户人家养的恶犬咬伤了，几天都不能动弹，阿丑又偷不到东西，她快要饿死了。
+    阿丑就像一条绝望的狼，蹲在奄奄一息的妞妞身边，幽幽的看着她，妞妞不知道阿兄在想什么，其实她一直就看不懂阿兄，她只知道阿兄对她好，自从母亲去世以后，阿兄已是她在这人世间唯一的亲人。
+    阿丑就那么幽幽地看着她，看了许久，便用草绳扎紧了已饿瘪的肚皮，迈着有气无力的步子走出去。
+    庙里的乞丐们立即义愤填膺起来，他们说妞妞娘养了一只白眼狼，阿丑丢下妞妞自生自灭，不再管她了，但是他们不舍得拿出一块乞讨来的食物。…,\n
+        （6）妞妞不相信他们的话，她不相信那个爬到高高的树上给她摸鸟蛋、那个用树枝给她扑蜻蜓、那个捉小鱼给她吃的阿兄会丢下她不管，她相信阿兄会回来，或许……阿兄是给她挖坟去了，就像当初埋葬她的母亲。
+    她想着很快就要见到阿母，心中便一阵欢喜、一阵恬然。想着要从此和阿兄分开，又是一阵不舍、一阵惆怅。她不知道死亡的世界是怎样的，可对生本能的留恋、对死本能的恐惧又叫她心里充满了惧怕。
+    她等了很久，想了很久，直到连想的力气都不再有，乞丐们义愤填膺的嗡嗡声停止了，妞妞看到阿兄回来了，他走得有气无力，可他的双手并没有磨破，也没有沾满泥土，他手里捧着那只破瓦罐，瓦罐里盛了半罐的热粥。
+    阿丑一口一口，嘴对嘴儿地喂给妞妞吃。
+    他们的命，贱得像田埂上的野草，哪怕再多人践踏，它依旧会顽强地活下去。
+    妞妞活过来了。\n</string>
+
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/addFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/fragmentRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/fragmentRadioButton1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/calc_btn_equal_selector"
+            android:button="@null"
+            android:checked="false"
+            android:drawableTop="@mipmap/reader"
+            android:gravity="center_horizontal"
+            android:text="@string/dynamicLoad"/>
+
+        <RadioButton
+            android:id="@+id/fragmentRadioButton2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/calc_btn_equal_selector"
+            android:button="@null"
+            android:checked="false"
+            android:drawableTop="@mipmap/reader"
+            android:gravity="center_horizontal"
+            android:text="@string/staticLoad"/>
+
+        <RadioButton
+            android:id="@+id/fragmentRadioButton3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/calc_btn_equal_selector"
+            android:button="@null"
+            android:checked="false"
+            android:drawableTop="@mipmap/reader"
+            android:gravity="center_horizontal"
+            android:text="@string/find"/>
+
+        <RadioButton
+            android:id="@+id/fragmentRadioButton4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/calc_btn_equal_selector"
+            android:button="@null"
+            android:checked="false"
+            android:drawableTop="@mipmap/reader"
+            android:gravity="center_horizontal"
+            android:text="@string/me"/>
+    </RadioGroup>
+</RelativeLayout>
+
